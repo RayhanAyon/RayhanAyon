@@ -21,6 +21,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+## 📄 My CV
+
+[![CV Badge](https://img.shields.io/badge/My_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/17wcoOZ00y28CLNKmmKZan-ft-qfrB_qD/view?usp=sharing)
 
 :gift:  Extra
 
@@ -28,4 +31,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+
 
